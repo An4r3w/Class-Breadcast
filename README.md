@@ -29,4 +29,4 @@ My [Discord](http://discordapp.com/users/689841358600536096)
 
 # Downloads (thnx for the support!)
 
-![img](https://camo.githubusercontent.com/An4r3w/Class-Broadcast)
+![img](https://img.shields.io/github/downloads/An4r3w/Class-Broadcast/total?style=for-the-badge)
