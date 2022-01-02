@@ -29,4 +29,4 @@ My [Discord](http://discordapp.com/users/689841358600536096)
 
 # Downloads (thnx for the support!)
 
-(https://github.com/An4r3w/Class-Broadcast/releases/download/v2.5.0/ClassBroadcast.dll)
+!img(https://github.com/An4r3w/Class-Broadcast/releases/download/v2.5.0/ClassBroadcast.dll)
